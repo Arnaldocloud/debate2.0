@@ -15,11 +15,6 @@ let preguntas = [
         respuestaCorrecta: "Elías"
     },
     {
-        pregunta: "¿Cuál es el décimo mandamiento?",
-        respuestas: ["No codiciarás la casa de tu prójimo", "No robarás", "No cometerás adulterio", "Honra a tu padre y a tu madre"],
-        respuestaCorrecta: "No codiciarás la casa de tu prójimo"
-    },
-    {
         pregunta: "¿Quién escribió la mayoría de los Salmos en el Libro de los Salmos?",
         respuestas: ["David", "Salomón", "Asaf", "Moisés"],
         respuestaCorrecta: "David"
