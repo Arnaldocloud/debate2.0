@@ -12,7 +12,7 @@ Cómo Contribuir:
 
 ¡Nos encantaría recibir tu ayuda para hacer que este juego sea aún mejor! Si tienes nuevas preguntas, sugerencias de características o encuentras algún error, por favor, siéntete libre de abrir un problema o enviar una solicitud de extracción.
 
-arnaldocloud.github.io/debate2.0/
+https://arnaldocloud.github.io/debate2.0/
 
 
 
